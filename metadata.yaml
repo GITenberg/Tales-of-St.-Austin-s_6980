@@ -1,0 +1,38 @@
+_repo: Tales-of-St.-Austin-s_6980
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Humor
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: How Pillingshot Scored -- The Odd Trick -- L'Affaire Uncle John (A
+  Story in Letters) -- Harrison's Slight Error -- Bradshaw's Little Story -- A Shocking
+  Affair -- The Babe and the Dragon -- The Manoeuvres of Charteris -- How Payne Bucked
+  Up -- Author! -- 'The Tabby Terror' -- The Prize Poem -- Work -- Notes -- Now, Talking
+  About Cricket-- -- The Tom Brown Question.
+title: Tales of St. Austin's
+url: http://www.gutenberg.org/ebooks/6980
